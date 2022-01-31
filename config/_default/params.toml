@@ -7,14 +7,14 @@
 
 colorScheme = "congo"
 # darkMode = "auto"
-# darkToggle = false
+darkToggle = true
 # logo = "img/logo.jpg"
 # description = "My awesome website"
 # mainSections = ["section1", "section2"]
 # robots = ""
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
+  layout = "profile" # valid options: page, profile, custom
   showRecent = false
 
 [article]
@@ -24,13 +24,13 @@ colorScheme = "congo"
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  # editURL = "https://github.com/DarkPro1337/main/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
   showReadingTime = true
   showWordCount = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+  sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = false

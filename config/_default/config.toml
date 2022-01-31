@@ -2,11 +2,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-# baseURL = "https://your_domain.com/"
+baseURL = "https://darkpro1337.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Congo"
+title = "DarkPro1337"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableRobotsTXT = true
@@ -14,11 +14,11 @@ enableRobotsTXT = true
 summaryLength = 0
 
 [author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+  name = "Artem Darkov"
+  image = "img/author.jpg"
+  bio = "21 y.o. C# Developer"
+  links = [
+    { email = "mailto:darkprothekun@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -30,13 +30,13 @@ summaryLength = 0
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+    { github = "https://github.com/DarkPro1337" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
-  #   { instagram = "https://instagram.com/username" },
+    { instagram = "https://instagram.com/darkpro1337" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
-  #   { lastfm = "https://lastfm.com/user/username" },
+    { lastfm = "https://last.fm/user/DarkPro1337" },
   #   { linkedin = "https://linkedin.com/in/username" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
@@ -48,12 +48,12 @@ summaryLength = 0
   #   { snapchat = "https://snapchat.com/add/username" },
   #   { soundcloud = "https://soundcloud.com/username" },
   #   { stackoverflow = "https://stackoverflow.com/users/6digit/username" },
-  #   { steam = "https://steamcommunity.com/profiles/userid" },
-  #   { telegram = "https://t.me/username" },
+    { steam = "https://steamcommunity.com/id/darkpro1337/" },
+    { telegram = "https://t.me/DarkPro1337" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
-  #   { twitch = "https://twitch.tv/username" },
-  #   { twitter = "https://twitter.com/username" },
+    { twitch = "https://twitch.tv/darkpro1337" },
+    { twitter = "https://twitter.com/darkpro1337" },
   #   { whatsapp = "https://wa.me/phone-number" },
-  #   { youtube = "https://youtube.com/username" },
-  # ]
+    { youtube = "https://youtube.com/DarkPro1337" },
+  ]
