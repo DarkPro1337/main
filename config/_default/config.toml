@@ -5,7 +5,7 @@
 baseURL = "https://darkpro1337.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
-publishDir = "darkpro1337.github.io"
+publishDir = "../darkpro1337.github.io"
 
 title = "DarkPro1337"
 # copyright = "Copy, _right?_ :thinking_face:"
