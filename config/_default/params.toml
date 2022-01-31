@@ -7,24 +7,24 @@
 
 colorScheme = "congo"
 # darkMode = "auto"
-darkToggle = true
+# darkToggle = true
 # logo = "img/logo.jpg"
-# description = "My awesome website"
-# mainSections = ["section1", "section2"]
+description = "My awesome website"
+mainSections = ["posts"]
 # robots = ""
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = false
+  # showRecent = true
 
 [article]
   showDate = true
   dateFormat = "2 January 2006"
   showAuthor = true
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = false
-  # editURL = "https://github.com/DarkPro1337/main/"
+  showEdit = true
+  editURL = "https://github.com/DarkPro1337/main/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
@@ -34,8 +34,8 @@ darkToggle = true
 
 [list]
   showBreadcrumbs = false
-  showSummary = false
-  groupByYear = true
+  showSummary = true
+  groupByYear = false
 
 [taxonomy]
   showTermCount = true
