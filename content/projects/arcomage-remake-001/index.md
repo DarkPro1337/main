@@ -1,9 +1,9 @@
 ---
 title: "Arcomage Remake I'm working on currently"
-date: 2021-10-05T00:16:38+03:00
+date: 2020-10-05T00:16:38+03:00
 draft: false
 description: ""
-slug: "2021/arcomage-remake-i-m-working-currently"
+slug: "2020/arcomage-remake-i-m-working-currently"
 tags: ["arcomage", "devlog"]
 ---
 Hello! I am an indie developer working on a remake of the Might & Magic series card mini-game called Arcomage.
