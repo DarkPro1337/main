@@ -1,5 +1,5 @@
-module github.com/DarkPro1337/main
+module github.com/darkpro1337/main
 
-go 1.17
+go 1.22.5
 
-require github.com/jpanther/congo v1.6.4 // indirect
+require github.com/jpanther/congo/v2 v2.8.2 // indirect

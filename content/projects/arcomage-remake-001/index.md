@@ -4,6 +4,7 @@ date: 2020-10-05T00:16:38+03:00
 draft: false
 description: ""
 slug: "2020/arcomage-remake-i-m-working-currently"
+summary: "Hello! I am an indie developer working on a remake of the Might & Magic series card mini-game called Arcomage."
 tags: ["arcomage", "devlog"]
 ---
 Hello! I am an indie developer working on a remake of the Might & Magic series card mini-game called Arcomage.

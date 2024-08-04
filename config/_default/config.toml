@@ -7,30 +7,13 @@ languageCode = "en"
 defaultContentLanguage = "en"
 publishDir = "../darkpro1337.github.io"
 
-title = "DarkPro1337"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "Artem Chernykh (@DarkPro1337)"
 
 enableEmoji = true
 enableRobotsTXT = true
 
+paginate = 10
 summaryLength = 0
 
-[author]
-  name = "Artem Darkov"
-  image = "img/author.jpg"
-  bio = "21 y.o. C# Developer"
-  links = [
-    { email = "mailto:darkprothekun@gmail.com" },
-    { discord = "https://discord.gg/DREFjqb" },
-    { github = "https://github.com/DarkPro1337" },
-    { instagram = "https://instagram.com/darkpro1337" },
-    { lastfm = "https://last.fm/user/DarkPro1337" },
-    { linkedin = "https://linkedin.com/in/darkpro1337" },
-    { patreon = "https://www.patreon.com/darkpro1337" },
-    { reddit = "https://reddit.com/user/darkpro1337" },
-    { steam = "https://steamcommunity.com/id/darkpro1337/" },
-    { telegram = "https://t.me/DarkPro1337" },
-    { twitch = "https://twitch.tv/darkpro1337" },
-    { twitter = "https://twitter.com/darkpro1337" },
-    { youtube = "https://youtube.com/DarkPro1337" },
-  ]
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

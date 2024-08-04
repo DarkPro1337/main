@@ -5,6 +5,7 @@ draft: false
 description: ""
 slug: "2021/arcomage-remake-0-3-alpha-updates"
 summary: "I graduated from the university and received a diploma, already managed to get a job. Had been ill with COVID-19, without complications, suffered in a relatively mild form. And I'm ready to work on the remake further!"
+tags: ["arcomage", "devlog"]
 ---
 Hello everyone! I graduated from the university and received a diploma, already managed to get a job. Had been ill with COVID-19, without complications, suffered in a relatively mild form. **And I'm ready to work on the remake further!**
 

@@ -5,7 +5,7 @@ draft: false
 description: ""
 slug: "2021/arcomage-remake-updates-first-release-soon"
 summary: "I'm still working on the remake of Arcomage, I've been very busy the last few months because of my studies. But I tried to find time to make some progress. So I would like to write a small change log of current updates."
-tags: ["arcomage", "devlog"]
+showSummary: true
 ---
 Hello everyone! It's Artеm again, I'm alive, I'm still working on the remake of Arcomage, I've been very busy the last few months because of my studies. But I tried to find time to make some progress. So I would like to write a small change log of current updates.
 
