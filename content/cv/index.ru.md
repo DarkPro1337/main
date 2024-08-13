@@ -15,7 +15,7 @@ showHeadingAnchors: false
 Скачать резюме {{< icon "file-pdf" >}} 
 {{< /button >}}
 
-{{< icon "location-dot" >}} Армения, Ереван  
+{{< icon "location-dot" >}} **Армения, Ереван**  
 {{< icon "email" >}} [darkprothekun@gmail.com](mailto:darkprothekun@gmail.com)  
 {{< icon "telegram" >}} [@darkpro1337](https://t.me/darkpro1337)  
 {{< icon "linkedin">}} [LinkedIn](https://www.linkedin.com/in/darkpro1337)  

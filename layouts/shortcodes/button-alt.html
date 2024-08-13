@@ -1,0 +1,9 @@
+<a
+  class="inline-block !rounded-md bg-secondary-600 px-4 py-1 !text-neutral !no-underline hover:!bg-secondary-500 dark:bg-secondary-800 dark:hover:!bg-secondary-700"
+  {{ with .Get "href" }}href="{{ . }}"{{ end }}
+  {{ with .Get "target" }}target="{{ . }}"{{ end }}
+  {{ with .Get "download" }}download="{{ . }}"{{ end }}
+  role="button"
+>
+  {{ .Inner }}
+</a>

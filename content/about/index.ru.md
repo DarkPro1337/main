@@ -33,13 +33,13 @@ showHeadingAnchors: false
 ### Любимый фильм и сериал
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: flex-start;">
   <div style="flex: 1; text-align: center; margin: 0; padding: 0;">
-    <span style="display: block; margin-bottom: 5px;">Фильм<br><strong>Джентльмены</strong> (2019)</span>
+    <span style="display: block; margin-bottom: 5px;">Фильм<br><a href="https://www.imdb.com/title/tt8367814/" target="_blank">Джентльмены (2019)</a></span>
     <video width="100%" autoplay loop muted style="display: block; margin: 0;">
       <source src="https://i.imgur.com/jnME29b.mp4" type="video/mp4">
     </video>
   </div>
   <div style="flex: 1; text-align: center; margin: 0; padding: 0;">
-    <span style="display: block; margin-bottom: 5px;">Сериал<br><strong>Лучше звоните Солу</strong> (2015–2022)</span>
+    <span style="display: block; margin-bottom: 5px;">Сериал<br><a href="https://www.imdb.com/title/tt3032476/" target="_blank">Лучше звоните Солу (2015–2022)</a></span>
     <video width="100%" autoplay loop muted style="display: block; margin: 0;">
       <source src="https://i.imgur.com/plIYuOI.mp4" type="video/mp4">
     </video>
@@ -48,3 +48,20 @@ showHeadingAnchors: false
 
 ### Любимые игры
 ![Мои любимые игры](fav-games.png)
+
+### Поддержать меня
+{{< button-alt href="https://www.patreon.com/darkpro1337" target="_blank" >}}
+{{< icon "patreon" >}} Patreon
+{{< /button-alt >}}
+
+{{< button-alt href="https://www.ko-fi.com/darkpro1337" target="_blank" >}}
+{{< icon "kofi" >}} Ko-fi
+{{< /button-alt >}}
+
+{{< button-alt href="https://www.buymeacoffee.com/darkpro1337" target="_blank" >}}
+{{< icon "buymeacoffee" >}} Buy Me a Coffee
+{{< /button-alt >}}
+
+{{< button-alt href="https://github.com/sponsors/DarkPro1337" target="_blank" >}}
+{{< icon "githubsponsors" >}} GitHub Sponsors
+{{< /button-alt >}}
