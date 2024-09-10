@@ -28,7 +28,7 @@ I am currently learning [Godot Engine](https://godotengine.org) and [AvaloniaUI]
 * [GML Guide](https://darkpro1337.github.io/gml-guide/) — GML Beginner's Guide *([original](https://gdpalace.wordpress.com/learn-gml/))*
 
 ### The track I'm obsessed with right now
-{{< spotify type="track" id="7x8dCjCr0x6x2lXKujYD34" width="100%" height="100" >}}
+{{< spotify type="track" id="0Qrb3L8JgreLBW8g4qyan9" width="100%" height="100" >}}
 
 ### Favorite Film and TV Show
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: flex-start;">

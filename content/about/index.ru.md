@@ -28,7 +28,7 @@ showHeadingAnchors: false
 * [GML Guide](https://darkpro1337.github.io/gml-guide/) - Руководство по GML для начинающих
 
 ### Трек на который я залип в последнее время
-{{< spotify type="track" id="7x8dCjCr0x6x2lXKujYD34" width="100%" height="100" >}}
+{{< spotify type="track" id="Qrb3L8JgreLBW8g4qyan9" width="100%" height="100" >}}
 
 ### Любимый фильм и сериал
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: flex-start;">
