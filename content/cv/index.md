@@ -22,16 +22,16 @@ Download CV {{< icon "file-pdf" >}}
 
 ## Job Experience
 
-### Tools Programmer 
-**Saber Interactive in Yerevan** <span style="float: right;">2022 – now</span>
-- **Led the development of critical features** for game development tools, ensuring alignment with new game engine updates and toolset improvements.
-- **Owned and streamlined maintenance processes** for game development tools, significantly enhancing tool reliability and usability.
-- **Designed and implemented a suite of WPF tools with a custom UI**, reducing manual workflows by 20%, and improving overall productivity across teams.
-- **Collaborated closely with the design team** to revamp the UI of existing WPF tools, incorporating Figma-derived layouts and enhancing the user experience.
-- **Optimized tool performance through targeted code refactoring**, reducing UI lag by 30% and improving responsiveness, delivering a smoother experience for the game development team.
-- **Developed innovative custom controls** in WPF to extend tool capabilities, enhancing functionality and increasing user satisfaction.
-- **Integrated APIs** to extend WPF tool functionality, improving system integration and overall tool efficiency.
-- **Ensured code quality by utilizing Perforce** for version control and conducting thorough code reviews.
+### Tools Programmer  
+**Saber Interactive in Yerevan** <span style="float: right;">2022 – Present</span>  
+- **Spearheaded development** of critical game development tools, ensuring compatibility with new game engine updates.  
+- **Streamlined tool maintenance**, enhancing reliability and reducing reported issues by 25%.  
+- **Built custom WPF tools** with a new UI, cutting manual workflows by 20% and boosting team productivity.  
+- **Collaborated with design teams** to overhaul UI elements using Figma layouts, improving user satisfaction.  
+- **Refactored code** to reduce UI lag by 30%, delivering smoother performance.  
+- **Developed custom WPF controls**, adding new features and improving team efficiency.  
+- **Integrated APIs**, enhancing tool functionality and system interoperability.  
+- **Maintained code quality** with version control using Perforce and regular code reviews.
 
 ## Education
 
