@@ -50,9 +50,9 @@ Download CV {{< icon "file-pdf" >}}
 * **Databases**: MS SQL, MySQL, SQLite.
 
 ### Languages
-* Russian *(native)*
-* **English *(advanced)***
-* Polish *(basic)*
+* **Russian** *(native)*
+* **English** *(advanced)*
+* **Polish** *(basic)*
 
 ### Current pet-projects
 * [Arcomage](https://github.com/DarkPro1337/arcomage) — fan-remake made on Godot Engine 4
