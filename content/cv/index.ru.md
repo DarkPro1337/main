@@ -11,7 +11,7 @@ showPagination: false
 showHeadingAnchors: false
 ---
 
-{{< button href="/cv/cv.pdf" target="_self" download="Черных Артём Резюме.pdf" >}}
+{{< button href="/cv/cv.pdf" target="_self" download="Черных Артем Резюме.pdf" >}}
 Скачать резюме {{< icon "file-pdf" >}} 
 {{< /button >}}
 
