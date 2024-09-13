@@ -26,7 +26,7 @@ Download CV {{< icon "file-pdf" >}}
 **Saber Interactive** in Yerevan <span style="float: right;">*2022 – Present*</span>  
 - **Led the development of key tools** like debugging utilities and level editors, adding new features that made workflows faster and adapted the tools to meet changing project needs.
 - **Managed and improved the maintenance of tools**, fixing bugs, performing updates, and ensuring tools were up-to-date, reducing reported issues by 25%.
-- **Created custom WPF tools** with a user-friendly interface, reducing manual work by 20% and boosting team efficiency.
+- **Created WPF tools** with a user-friendly interface, reducing manual work by 20% and boosting team efficiency.
 - **Worked with design teams** to update UI elements using Figma, leading to better user satisfaction.
 - **Optimized code** to reduce interface lag by 30%, improving performance.
 - **Developed custom WPF controls**, adding new features and making the tools more effective for the team.
