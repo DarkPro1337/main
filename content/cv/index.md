@@ -10,7 +10,7 @@ showWordCount: false
 showPagination: false
 showHeadingAnchors: false
 ---
-{{< button href="/cv/cv.pdf" target="_self" download="Chernykh Artem Romanovich.pdf" >}}
+{{< button href="/cv/cv.pdf" target="_self" download="Artem Chernykh Resume.pdf" >}}
 Download CV {{< icon "file-pdf" >}}
 {{< /button >}}
 
@@ -23,22 +23,23 @@ Download CV {{< icon "file-pdf" >}}
 ## Job Experience
 
 ### Tools Programmer  
-**Saber Interactive in Yerevan** <span style="float: right;">2022 – Present</span>  
-- **Spearheaded development** of critical game development tools, ensuring compatibility with new game engine updates.  
-- **Streamlined tool maintenance**, enhancing reliability and reducing reported issues by 25%.  
-- **Built custom WPF tools** with a new UI, cutting manual workflows by 20% and boosting team productivity.  
-- **Collaborated with design teams** to overhaul UI elements using Figma layouts, improving user satisfaction.  
-- **Refactored code** to reduce UI lag by 30%, delivering smoother performance.  
-- **Developed custom WPF controls**, adding new features and improving team efficiency.  
-- **Integrated APIs**, enhancing tool functionality and system interoperability.  
-- **Maintained code quality** with version control using Perforce and regular code reviews.
+**Saber Interactive** in Yerevan <span style="float: right;">*2022 – Present*</span>  
+- **Led the development of key tools** like debugging utilities and level editors, adding new features that made workflows faster and adapted the tools to meet changing project needs.
+- **Managed and improved the maintenance of tools**, fixing bugs, performing updates, and ensuring tools were up-to-date, reducing reported issues by 25%.
+- **Created custom WPF tools** with a user-friendly interface, reducing manual work by 20% and boosting team efficiency.
+- **Worked with design teams** to update UI elements using Figma, leading to better user satisfaction.
+- **Optimized code** to reduce interface lag by 30%, improving performance.
+- **Developed custom WPF controls**, adding new features and making the tools more effective for the team.
+- **Integrated APIs** to expand tool functionality and improve how tools connect with other systems.
+- **Maintained high code quality** through regular code reviews and version control with Perforce.
 
 ## Education
 
-**Admiral Makarov State University of Maritime and Inland Shipping in Kotlas** <span style="float: right;">2018 – 2021</span>
-* Grade: GPA: "**4.72** out of 5.0".
-* Associate’s Degree in Information Systems, **Graduated with Honors**.
-* Completed extensive production practices, gaining hands-on experience.
+**Admiral Makarov State University of Maritime and Inland Shipping** in Kotlas <span style="float: right;">*2018 – 2021*</span>
+* GPA: "**4.72** out of 5.0".
+* Qualification: **Information Systems Technician**.
+* Associate’s Degree, Vocational **Diploma with Honors** in **Information Systems**.
+* Completed **internship** at this educational institution.
 
 ## Skills and Knowledge
 
@@ -50,7 +51,7 @@ Download CV {{< icon "file-pdf" >}}
 
 ### Languages
 * Russian *(native)*
-* English *(advanced)*
+* **English *(advanced)***
 * Polish *(basic)*
 
 ### Current pet-projects
