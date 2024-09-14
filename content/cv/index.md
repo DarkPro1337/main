@@ -23,19 +23,19 @@ Download CV {{< icon "file-pdf" >}}
 ## Job Experience
 
 ### Tools Programmer  
-**Saber Interactive** in Yerevan <span style="float: right;">*2022 – Present*</span>  
-- **Led the development of key tools** like debugging utilities and level editors, adding new features that made workflows faster and adapted the tools to meet changing project needs.
-- **Managed and improved the maintenance of tools**, fixing bugs, performing updates, and ensuring tools were up-to-date, reducing reported issues by 25%.
-- **Created WPF tools** with a user-friendly interface, reducing manual work by 20% and boosting team efficiency.
-- **Worked with design teams** to update UI elements using Figma, leading to better user satisfaction.
-- **Optimized code** to reduce interface lag by 30%, improving performance.
+**Saber Interactive** in Yerevan <span style="float: right;">2022—Present</span>  
+- **Contributed to the development of key tools** like debugging utilities and level editors, adding new features that made workflows faster and adapted the tools to meet changing project needs.
+- **Managed and improved the maintenance of tools**, fixing bugs, performing updates, and ensuring tools were up to date, reducing reported issues by 25%.
+- **Created tools using Windows Presentation Foundation (WPF)** with a user-friendly interface, reducing manual work by 20% and boosting team efficiency.
+- **Worked with design teams** to update UI elements using Figma, improving user satisfaction.
+- **Enhanced existing WPF-based tool interfaces**, improving performance and user satisfaction by optimizing UI elements and reducing lag by 30%.
 - **Developed custom WPF controls**, adding new features and making the tools more effective for the team.
-- **Integrated APIs** to expand tool functionality and improve how tools connect with other systems.
-- **Maintained high code quality** through regular code reviews and version control with Perforce.
+- **Integrated both internal company APIs and external APIs** (e.g., Figma) to enhance tool functionality and improve system interoperability.
+- **Maintained code quality** through regular code reviews and version control with Perforce.
 
 ## Education
 
-**Admiral Makarov State University of Maritime and Inland Shipping** in Kotlas <span style="float: right;">*2018 – 2021*</span>
+**Admiral Makarov State University of Maritime and Inland Shipping** in Kotlas <span style="float: right;">2018—2021</span>
 * GPA: "**4.72** out of 5.0".
 * Qualification: **Information Systems Technician**.
 * Associate’s Degree, Vocational **Diploma with Honors** in **Information Systems**.
@@ -59,11 +59,11 @@ Download CV {{< icon "file-pdf" >}}
 * [GodotHub](https://github.com/DarkPro1337/GodotHub) — AvaloniaUI launcher and instance manager for Godot Engine
 
 ### Hobbies
-- **Indie game development** – *currently developing Arcomage and occasionally assisting friends with their projects.*
-- **Computer graphics** – *experimenting with Blender; previously worked with Source Filmmaker.*
-- **Playing guitar** – *still improving my technique, though not consistently.*
-- **Video editing** – *creating YouTube videos and stream highlights.*
-- **Game modding** – *casually creating mods for fun, with plans to share a few cool ones in the future.*
+- **Indie game development** — *currently developing Arcomage and occasionally assisting friends with their projects.*
+- **Computer graphics** — *experimenting with Blender; previously worked with Source Filmmaker.*
+- **Playing guitar** — *still improving my technique, though not consistently.*
+- **Video editing** — *creating YouTube videos and stream highlights.*
+- **Game modding** — *casually creating mods for fun, with plans to share a few cool ones in the future.*
 
 ## Miscellaneous
 
