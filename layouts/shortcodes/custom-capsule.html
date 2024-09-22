@@ -1,0 +1,11 @@
+{{- $name := .Get "name" -}}
+{{- $href := .Get "href" -}}
+{{ with resources.Get (printf "img/capsule/%s.jpg" $name) }}
+  {{ if $href }}
+    <a href="{{ $href }}" target="_blank">
+      <img src="{{ .RelPermalink }}" alt="Game Capsule for {{ $name }}" class="custom-capsule-img" style="margin: 0; transition: transform 0.3s ease; display: block;">
+    </a>
+  {{ else }}
+    <img src="{{ .RelPermalink }}" alt="Game Capsule for {{ $name }}" class="custom-capsule-img" style="margin: 0; transition: transform 0.3s ease; display: block;">
+  {{ end }}
+{{ end }}
