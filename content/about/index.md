@@ -11,24 +11,29 @@ showWordCount: false
 showPagination: false
 showTableOfContents: false
 showHeadingAnchors: false
+showComments: false
 ---
 
-### Hi!
+### Hi, my name is Artem!
 
-My name is Artem Chernykh. I'm a software developer. I currently live in Yerevan. I work at **Saber Interactive** as a **Tools Programmer**. In my work, I use **WPF** with MVVM and **C#**, sometimes I use **C++**. I love develop convenient tools that make work processes easier and more efficient.
+I’m a software developer based in Yerevan, Armenia. Currently working at **Saber Interactive** as a **Tools Programmer**, focusing on **WPF (MVVM)** with **C#** and occasionally **C++**. I’m passionate about creating tools that make workflows more efficient and enjoyable.
 
-I am currently learning [Godot Engine](https://godotengine.org) and [AvaloniaUI](https://avaloniaui.net) on my own, I have a couple of pet projects that I am slowly but surely doing. :^)
+### Pet Projects
 
-### My current *(alive)* pet-projects:
-* [Arcomage](https://github.com/DarkPro1337/arcomage) — fan-remake made on Godot Engine 4
-* [GodotHub](https://github.com/DarkPro1337/GodotHub) — AvaloniaUI launcher and instance manager for Godot Engine
+- [**Arcomage**](https://github.com/DarkPro1337/Arcomage) — A **Godot Engine 4 (.NET)** fan-remake of the classic Arcomage card game.  
+- [**GodotHub**](https://github.com/DarkPro1337/GodotHub) — An **AvaloniaUI** launcher and instance manager for Godot Engine.
 
-### I translated few of guides into Russian from English:
-* [Discord Webhooks](https://darkpro1337.github.io/discord-webhooks) — Discord Webhooks Guide *([original](https://birdie0.github.io/discord-webhooks-guide/))*
-* [GML Guide](https://darkpro1337.github.io/gml-guide/) — GML Beginner's Guide *([original](https://gdpalace.wordpress.com/learn-gml/))*
+### Translations
+I enjoy helping the community by translating guides from English into Russian:
+
+- [Discord Webhooks](https://darkpro1337.github.io/discord-webhooks) *(original by [birdie0](https://birdie0.github.io/discord-webhooks-guide/))*
+- [GML Guide](https://darkpro1337.github.io/gml-guide) *(original by [GDPalace](https://gdpalace.wordpress.com/learn-gml/))*
 
 ### The track I'm obsessed with right now
-{{< spotify type="track" id="0Qrb3L8JgreLBW8g4qyan9" width="100%" height="100" >}}
+{{< spotify type="track" id="51EpFns3CG9taCMQz6XDom" width="100%" height="100" >}}
+{{< button-alt href="https://www.last.fm/user/DarkPro1337" target="_blank" >}}
+{{< icon "lastfm" >}} Scrobbles
+{{< /button-alt >}}
 
 ### Favorite Film and TV Show
 <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; flex-direction: row; width: 100%;">
@@ -39,14 +44,17 @@ I am currently learning [Godot Engine](https://godotengine.org) and [AvaloniaUI]
     </video>
   </div>
   <div style="flex: 1 1 45%; text-align: center; margin: 0; padding: 0; max-width: 100%;">
-    <span style="display: block; margin-bottom: 5px;">TV Show<br><a href="https://www.imdb.com/title/tt3032476/" target="_blank">Better Call Saul</a></span>
+    <span style="display: block; margin-bottom: 5px;">TV Show<br><a href="https://www.imdb.com/title/tt0141842/" target="_blank">The Sopranos</a></span>
     <video width="100%" autoplay loop muted style="display: block; margin: 0; border-radius: .375rem;">
-      <source src="https://i.imgur.com/plIYuOI.mp4" type="video/mp4">
+      <source src="https://i.imgur.com/KG43kd2.mp4" type="video/mp4">
     </video>
   </div>
 </div>
 
 ### Favourite Games
+{{< button-alt href="https://steamcommunity.com/id/darkpro1337/" target="_blank" >}}
+{{< icon "steam" >}} Profile
+{{< /button-alt >}}
 <style>
 .custom-capsule-img:hover {
     opacity: 0.5;
@@ -71,7 +79,7 @@ I am currently learning [Godot Engine](https://godotengine.org) and [AvaloniaUI]
   {{< steam-capsule id="227300" >}}
   {{< steam-capsule id="220" >}}
   {{< steam-capsule id="1373510" >}}
-  {{< steam-capsule id="2183900" >}}
+  {{< steam-capsule id="289070" >}}
   {{< steam-capsule id="2990" >}}
   {{< steam-capsule id="2280" >}}
   {{< steam-capsule id="620" >}}
@@ -103,18 +111,14 @@ I am currently learning [Godot Engine](https://godotengine.org) and [AvaloniaUI]
 </div>
 
 ### Support me
-{{< button-alt href="https://www.patreon.com/darkpro1337" target="_blank" >}}
-{{< icon "patreon" >}} Patreon
+{{< button-alt href="https://github.com/sponsors/DarkPro1337" target="_blank" >}}
+{{< icon "githubsponsors" >}} Sponsors
 {{< /button-alt >}}
 
-{{< button-alt href="https://www.ko-fi.com/darkpro1337" target="_blank" >}}
-{{< icon "kofi" >}} Ko-fi
+{{< button-alt href="https://tronscan.org/#/address/TT1F6ptBedtbvc12Gjc8YRXFXJxYA1kxBd" target="_blank" >}}
+{{< icon "tether" >}} USDT TRC20
 {{< /button-alt >}}
 
 {{< button-alt href="https://www.buymeacoffee.com/darkpro1337" target="_blank" >}}
 {{< icon "buymeacoffee" >}} Buy Me a Coffee
-{{< /button-alt >}}
-
-{{< button-alt href="https://github.com/sponsors/DarkPro1337" target="_blank" >}}
-{{< icon "githubsponsors" >}} GitHub Sponsors
 {{< /button-alt >}}

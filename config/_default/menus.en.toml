@@ -16,8 +16,8 @@
 #   weight = 10
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Devblog"
+  pageRef = "dev"
   weight = 20
 
 [[main]]

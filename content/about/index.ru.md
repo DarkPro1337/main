@@ -11,42 +11,50 @@ showWordCount: false
 showPagination: false
 showTableOfContents: false
 showHeadingAnchors: false
+showComments: false
 ---
 
-### Привет!
+### Привет, меня зовут Артём!
 
-Меня зовут Артём Черных. Я разработчик программного обеспечения. Сейчас я живу в Ереване. Работаю в **Saber Interactive** на позиции **Tools Programmer**. В своей работе я использую **WPF** с MVVM и **C#**, иногда я использую **С++**. Мне нравятся разрабатывать удобные инструменты, которые делают рабочие процессы проще и эффективнее.
+Я разработчик программного обеспечения, живу в Ереване. В настоящее время работаю в **Saber Interactive** на позиции **Tools Programmer**, специализируюсь на **WPF (MVVM)** с использованием **C#** и иногда **C++**. Мне нравится создавать инструменты, которые делают рабочие процессы эффективнее и приятнее.
 
-Сейчас я самостоятельно изучаю [Godot Engine](https://godotengine.org) и [AvaloniaUI](https://avaloniaui.net), у меня есть парочка пет-проектов которые я медленно но верно делаю. :^)
+### Пет-проекты
 
-### Мои текущие *(живые)* пэт-проекты:
-* [Arcomage](https://github.com/DarkPro1337/arcomage) — фан-ремейк, сделанный на Godot Engine 4
-* [GodotHub](https://github.com/DarkPro1337/GodotHub) — AvaloniaUI лаунчер и менеджер инстансов Godot Engine
+- [**Arcomage**](https://github.com/DarkPro1337/Arcomage) — фанатский ремейк классической карточной игры Arcomage на **Godot Engine 4 (.NET)**.  
+- [**GodotHub**](https://github.com/DarkPro1337/GodotHub) — лаунчер и менеджер экземпляров для Godot Engine на **AvaloniaUI**.
 
-### Я перевел несколько руководств на русский язык с английского:
-* [Discord Webhooks](https://darkpro1337.github.io/discord-webhooks) - Руководство по вебхукам Discord
-* [GML Guide](https://darkpro1337.github.io/gml-guide/) - Руководство по GML для начинающих
+### Переводы
+Мне нравится помогать сообществу, переводя руководства с английского на русский:
+
+- [Discord Webhooks](https://darkpro1337.github.io/discord-webhooks) *(оригинал от [birdie0](https://birdie0.github.io/discord-webhooks-guide/))*
+- [GML Guide](https://darkpro1337.github.io/gml-guide) *(оригинал от [GDPalace](https://gdpalace.wordpress.com/learn-gml/))*
 
 ### Трек на который я залип в последнее время
-{{< spotify type="track" id="Qrb3L8JgreLBW8g4qyan9" width="100%" height="100" >}}
+{{< spotify type="track" id="51EpFns3CG9taCMQz6XDom" width="100%" height="100" >}}
+{{< button-alt href="https://www.last.fm/user/DarkPro1337" target="_blank" >}}
+{{< icon "lastfm" >}} Прослушивания
+{{< /button-alt >}}
 
 ### Любимый фильм и сериал
-<div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: flex-start;">
-  <div style="flex: 1; text-align: center; margin: 0; padding: 0;">
-    <span style="display: block; margin-bottom: 5px;">Фильм<br><a href="https://www.imdb.com/title/tt8367814/" target="_blank">Джентльмены (2019)</a></span>
-    <video width="100%" autoplay loop muted style="display: block; margin: 0;">
+<div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; flex-direction: row; width: 100%;">
+  <div style="flex: 1 1 45%; text-align: center; margin: 0; padding: 0; max-width: 100%;">
+    <span style="display: block; margin-bottom: 5px;">Фильм<br><a href="https://www.imdb.com/title/tt8367814/" target="_blank">Джентельмены</a></span>
+    <video width="100%" autoplay loop muted style="display: block; margin: 0; border-radius: .375rem;">
       <source src="https://i.imgur.com/jnME29b.mp4" type="video/mp4">
     </video>
   </div>
-  <div style="flex: 1; text-align: center; margin: 0; padding: 0;">
-    <span style="display: block; margin-bottom: 5px;">Сериал<br><a href="https://www.imdb.com/title/tt3032476/" target="_blank">Лучше звоните Солу (2015–2022)</a></span>
-    <video width="100%" autoplay loop muted style="display: block; margin: 0;">
-      <source src="https://i.imgur.com/plIYuOI.mp4" type="video/mp4">
+  <div style="flex: 1 1 45%; text-align: center; margin: 0; padding: 0; max-width: 100%;">
+    <span style="display: block; margin-bottom: 5px;">Сериал<br><a href="https://www.imdb.com/title/tt0141842/" target="_blank">Клан Сопрано</a></span>
+    <video width="100%" autoplay loop muted style="display: block; margin: 0; border-radius: .375rem;">
+      <source src="https://i.imgur.com/KG43kd2.mp4" type="video/mp4">
     </video>
   </div>
 </div>
 
 ### Любимые игры
+{{< button-alt href="https://steamcommunity.com/id/darkpro1337/" target="_blank" >}}
+{{< icon "steam" >}} Профиль
+{{< /button-alt >}}
 <style>
 .custom-capsule-img:hover {
     opacity: 0.5;
@@ -71,7 +79,7 @@ showHeadingAnchors: false
   {{< steam-capsule id="227300" >}}
   {{< steam-capsule id="220" >}}
   {{< steam-capsule id="1373510" >}}
-  {{< steam-capsule id="2183900" >}}
+  {{< steam-capsule id="289070" >}}
   {{< steam-capsule id="2990" >}}
   {{< steam-capsule id="2280" >}}
   {{< steam-capsule id="620" >}}
@@ -103,18 +111,14 @@ showHeadingAnchors: false
 </div>
 
 ### Поддержать меня
-{{< button-alt href="https://www.patreon.com/darkpro1337" target="_blank" >}}
-{{< icon "patreon" >}} Patreon
+{{< button-alt href="https://github.com/sponsors/DarkPro1337" target="_blank" >}}
+{{< icon "githubsponsors" >}} Sponsors
 {{< /button-alt >}}
 
-{{< button-alt href="https://www.ko-fi.com/darkpro1337" target="_blank" >}}
-{{< icon "kofi" >}} Ko-fi
+{{< button-alt href="https://tronscan.org/#/address/TT1F6ptBedtbvc12Gjc8YRXFXJxYA1kxBd" target="_blank" >}}
+{{< icon "tether" >}} USDT TRC20
 {{< /button-alt >}}
 
 {{< button-alt href="https://www.buymeacoffee.com/darkpro1337" target="_blank" >}}
 {{< icon "buymeacoffee" >}} Buy Me a Coffee
-{{< /button-alt >}}
-
-{{< button-alt href="https://github.com/sponsors/DarkPro1337" target="_blank" >}}
-{{< icon "githubsponsors" >}} GitHub Sponsors
 {{< /button-alt >}}

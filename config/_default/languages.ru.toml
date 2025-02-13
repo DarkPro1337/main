@@ -9,20 +9,20 @@ title = "DarkPro1337"
 [params]
   dateFormat = "02.01.2006"
 
-  mainSections = ["posts", "projects"]
+  mainSections = ["about", "dev"]
   # description = "My awesome website"
 
 [params.author]
   name = "Артем Черных"
   image = "img/author.jpg"
-  bio = "24 года, C# Разработчик"
+  bio = "Tools Developer @ Saber Interactive"
   links = [
     { email = "mailto:darkprothekun@gmail.com" },
-    { telegram = "https://t.me/DarkPro1337" },
     { github = "https://github.com/DarkPro1337" },
+    { telegram = "https://t.me/DarkPro1337" },
+    { linkedin = "https://linkedin.com/in/darkpro1337" },
     { x-twitter = "https://x.com/darkpro1337" },
     { instagram = "https://instagram.com/darkpro1337" },
     { steam = "https://steamcommunity.com/id/darkpro1337/" },
     { unsplash = "https://unsplash.com/@darkpro1337" },
-    { linkedin = "https://linkedin.com/in/darkpro1337" },
   ]

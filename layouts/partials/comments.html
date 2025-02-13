@@ -1,0 +1,27 @@
+<div id="giscus_container"></div>
+<script>
+function loadGiscus(theme) {
+  const container = document.getElementById('giscus_container');
+  container.innerHTML = '';
+  const script = document.createElement('script');
+  script.src = 'https://giscus.app/client.js';
+  script.setAttribute('data-repo', 'DarkPro1337/darkpro1337.github.io');
+  script.setAttribute('data-repo-id', 'MDEwOlJlcG9zaXRvcnkyMzMyMTQ2NDA=');
+  script.setAttribute('data-category', 'General');
+  script.setAttribute('data-category-id', 'DIC_kwDODeaSsM4Cm8hw');
+  script.setAttribute('data-mapping', 'pathname');
+  script.setAttribute('data-strict', '0');
+  script.setAttribute('data-reactions-enabled', '1');
+  script.setAttribute('data-emit-metadata', '0');
+  script.setAttribute('data-input-position', 'top');
+  script.setAttribute('data-theme', theme);
+  script.setAttribute('data-lang', 'ru');
+  script.setAttribute('data-loading', 'lazy');
+  script.crossOrigin = 'anonymous';
+  script.async = true;
+  container.appendChild(script);
+}
+
+const theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+loadGiscus(theme);
+</script>
