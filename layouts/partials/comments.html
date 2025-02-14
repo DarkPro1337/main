@@ -15,7 +15,7 @@ function loadGiscus(theme) {
   script.setAttribute('data-emit-metadata', '0');
   script.setAttribute('data-input-position', 'top');
   script.setAttribute('data-theme', theme);
-  script.setAttribute('data-lang', 'ru');
+  script.setAttribute('data-lang', '{{ .Site.Language.Lang }}');
   script.setAttribute('data-loading', 'lazy');
   script.crossOrigin = 'anonymous';
   script.async = true;
