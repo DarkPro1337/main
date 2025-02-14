@@ -1,6 +1,6 @@
 ---
 title: "WASM Modding for Your Godot .NET Games"
-summary: "While developing Arcomage with Godot .NET, I encountered the challenge of adding support for script-based modding to the game."
+summary: "Discover safe, sandboxed WASM modding for your Godot .NET game using Wasmtime and AssemblyScript. Build a custom mod API that avoids DLL injection risks."
 date: 2025-02-13T04:48:34+04:00
 draft: false
 tags: ["wasm", "godot", "modding", "devlog"]
