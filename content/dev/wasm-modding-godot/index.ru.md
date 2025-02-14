@@ -5,7 +5,6 @@ date: 2025-02-13T04:48:34+04:00
 draft: false
 tags: ["wasm", "godot", "modding", "devlog"]
 thumbnail: "tn.png"
-feature: "img/post.ru.png"
 images:
 - img/post.ru.png
 ---
