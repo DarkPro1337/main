@@ -80,3 +80,6 @@ fingerprintAlgorithm = "sha256"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[social]
+  twitter = 'DarkPro1337'

@@ -5,8 +5,10 @@ date: 2025-02-13T04:48:34+04:00
 draft: false
 tags: ["wasm", "godot", "modding", "devlog"]
 thumbnail: "tn.png"
+images:
+- img/post.png
 ---
-![WASM Modding for Your Godot .NET Games](post.png)
+![WASM Modding for Your Godot .NET Games](img/post.png)
 While developing **Arcomage** using **Godot .NET**, I faced a challenge: how can I add support for script-based modding to the game? The issue was that I didn't want to allow direct DLL injection—highly insecure and prone to abuse by injecting malicious code that could compromise user systems or steal sensitive data like passwords.
 
 Instead, I opted for a sandboxed approach where mods execute safely without posing risks to end users. My goal was to create a common API for all mods to make them both safer and easier to write. That's when I came across a video by [the nameless dev](https://youtu.be/kcWVYeaFmqQ) that clearly and concisely explained how to implement WASM mod support. Huge thanks to the author for sharing his insights!
