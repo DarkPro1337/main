@@ -6,10 +6,13 @@ description: ""
 slug: "2020/arcomage-remake-i-m-working-currently"
 summary: "Hello! I am an indie developer working on a remake of the Might & Magic series card mini-game called Arcomage."
 tags: ["arcomage", "devlog"]
+thumbnail: "tn.png"
+images:
+- img/post.png
 ---
 Hello! I am an indie developer working on a remake of the Might & Magic series card mini-game called Arcomage.
 
-![Screenshot](01.png)
+![Screenshot](img/post.png)
 
 I really love **Arcomage** and want to make a really good remake. I try very hard to keep its original appearance. I don't want to add any other balance-breaking functionality. Perhaps later I will add a direct ability to create my own decks, something like mods, both based on a standard deck of cards, and completely your own. At the moment I am working on repeating the version that was in Might and Magic itself, i.e. version for one player, and a computer as an opponent. Later I will be working on multiplayer modes. Since I develop all this alone, I do not have a release date for specific versions.
 

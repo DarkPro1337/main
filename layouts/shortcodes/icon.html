@@ -1,6 +1,6 @@
 {{ $icon := resources.Get (printf "icons/%s.svg" ($.Get 0)) }}
 {{ if $icon }}
-  <span class="icon relative inline-block" style="vertical-align: sub;">
+  <span class="icon" style="display: inline-block; vertical-align: middle; position: relative; top: -0.125em;">
     {{ $icon.Content | safeHTML }}
   </span>
 {{ else }}

@@ -18,10 +18,14 @@ showComments: false
 
 I’m a software developer based in Yerevan, Armenia. Currently working at **Saber Interactive** as a **Tools Programmer**, focusing on **WPF (MVVM)** with **C#** and occasionally **C++**. I’m passionate about creating tools that make workflows more efficient and enjoyable.
 
+{{< button-alt href="devices" >}}
+{{< icon "gear" >}} My Devices
+{{< /button-alt >}}
+
 ### Pet Projects
 
-- [**Arcomage**](https://github.com/DarkPro1337/Arcomage) — A **Godot Engine 4 (.NET)** fan-remake of the classic Arcomage card game.  
-- [**GodotHub**](https://github.com/DarkPro1337/GodotHub) — An **AvaloniaUI** launcher and instance manager for Godot Engine.
+- [**Arcomage**](https://github.com/DarkPro1337/Arcomage) — A **Godot Engine 4 (.NET)** fan-remake of the classic Arcomage card game. [Read Devlogs](/tags/arcomage/).  
+- [**GodotHub**](https://github.com/DarkPro1337/GodotHub) — An **AvaloniaUI** launcher and instance manager for Godot Engine. Abandoned for an indefinite time, sorry.
 
 ### Translations
 I enjoy helping the community by translating guides from English into Russian:
@@ -104,7 +108,7 @@ I enjoy helping the community by translating guides from English into Russian:
   {{< steam-capsule id="72850" >}}
   {{< steam-capsule id="48190" >}}
   {{< steam-capsule id="105600" >}}
-  {{< steam-capsule id="6860" >}}
+  {{< steam-capsule id="287700" >}}
   {{< steam-capsule id="550" >}}
   {{< steam-capsule id="49520" >}}
   {{< steam-capsule id="70" >}}
