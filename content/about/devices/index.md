@@ -12,6 +12,7 @@ showPagination: false
 showTableOfContents: false
 showHeadingAnchors: false
 showComments: false
+showLink: false
 thumbnail: "/about/devices/tn.png"
 images:
 - /about/devices/tn.png
