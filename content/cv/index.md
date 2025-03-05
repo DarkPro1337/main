@@ -68,7 +68,7 @@ Download CV {{< icon "file-pdf" >}}
 - **Databases**: MS SQL, MySQL, SQLite
 - **Scripting**: PowerShell, Batch, Bash
 
-### Languages
+## Languages
 * **English** *(advanced)*
 * **Russian** *(native)*
 * **Polish** *(basic)*
@@ -76,7 +76,7 @@ Download CV {{< icon "file-pdf" >}}
 ## Active Pet Projects
 * [**Arcomage**](https://github.com/DarkPro1337/Arcomage) — Godot 4 .NET remake of the Arcomage card game.  
 
-### Hobbies
+## Hobbies
 - **Indie game development** — *currently developing Arcomage and occasionally assisting friends with their projects.*
 - **Computer graphics** — *occasionally experimenting with Blender and Daz3D; previously worked with Source Filmmaker.*
 - **Playing guitar** — *still improving my technique, though not consistently.*
