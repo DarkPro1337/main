@@ -80,11 +80,11 @@ img {
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
         <div class="flex-none pe-4">
-          <img src="img/v27i.webp" alt="HP V27i" class="w-24 rounded-md">
+          <img src="img/24MK600M.webp" alt="LG 24MK600M" class="w-24 rounded-md">
         </div>
         <div>
           <div class="mt-2 list-disc pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "display" >}} Display</div>
-          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">HP V27i</h2>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">LG 24MK600M</h2>
         </div>
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
