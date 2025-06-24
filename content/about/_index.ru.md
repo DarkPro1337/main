@@ -1,7 +1,7 @@
 ---
 title: "Обо мне"
 slug: "about"
-summary: "Немного о себе"
+summary: "Немного обо мне."
 date: 2024-08-04T05:22:30Z
 showDate: false
 showAuthor: false
@@ -16,7 +16,7 @@ showComments: false
 
 ### Привет, меня зовут Артём!
 
-Я разработчик программного обеспечения, живу в Ереване. В настоящее время работаю в **Saber Interactive** на позиции **Tools Programmer**, специализируюсь на **WPF (MVVM)** с использованием **C#** и иногда **C++**. Мне нравится создавать инструменты, которые делают рабочие процессы эффективнее и приятнее.
+Я разработчик программного обеспечения, живу Ереване. Работаю как **C#-разработчик**, фокусируюсь на автоматизации, внутренних инструментах и интеграции сервисов. Также имею опыт разработки WPF-приложений и инструментов для разработчиков. Мне нравится создавать практичные решения, которые делают повседневные рабочие процессы проще и удобнее.
 
 {{< button-alt href="devices" >}}
 {{< icon "gear" >}} Мои девайсы
@@ -34,7 +34,7 @@ showComments: false
 - [GML Guide](https://darkpro1337.github.io/gml-guide) *(оригинал от [GDPalace](https://gdpalace.wordpress.com/learn-gml/))*
 
 ### Трек на который я залип в последнее время
-{{< spotify type="track" id="51EpFns3CG9taCMQz6XDom" width="100%" height="100" >}}
+{{< spotify type="track" id="0PicuPCfXDJyyRtOR1ukGW" width="100%" height="100" >}}
 {{< button-alt href="https://www.last.fm/user/DarkPro1337" target="_blank" >}}
 {{< icon "lastfm" >}} Прослушивания
 {{< /button-alt >}}

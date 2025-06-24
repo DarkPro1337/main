@@ -16,7 +16,7 @@ showComments: false
 
 ### Hi, my name is Artem!
 
-I’m a software developer based in Yerevan, Armenia. Currently working at **Saber Interactive** as a **Tools Programmer**, focusing on **WPF (MVVM)** with **C#** and occasionally **C++**. I’m passionate about creating tools that make workflows more efficient and enjoyable.
+I’m a software developer based in Yerevan, Armenia. I work as a **C#** developer, focusing on automation, internal tools, and service integration. I also have experience building **WPF** applications and developer tools. I’m passionate about creating practical solutions that make everyday workflows smoother and more enjoyable.
 
 {{< button-alt href="devices" >}}
 {{< icon "gear" >}} My Devices
@@ -34,7 +34,7 @@ I enjoy helping the community by translating guides from English into Russian:
 - [GML Guide](https://darkpro1337.github.io/gml-guide) *(original by [GDPalace](https://gdpalace.wordpress.com/learn-gml/))*
 
 ### The track I'm obsessed with right now
-{{< spotify type="track" id="51EpFns3CG9taCMQz6XDom" width="100%" height="100" >}}
+{{< spotify type="track" id="0PicuPCfXDJyyRtOR1ukGW" width="100%" height="100" >}}
 {{< button-alt href="https://www.last.fm/user/DarkPro1337" target="_blank" >}}
 {{< icon "lastfm" >}} Scrobbles
 {{< /button-alt >}}
