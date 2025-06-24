@@ -1,7 +1,6 @@
 ---
 title: "Artem Chernykh (@DarkPro1337)"
-summary: "25 y.o., .NET fan, Godot enthusiast, translator, videomaker. 
-C# Tools Programmer @ Saber Interactive."
+summary: "25 y.o., .NET fan, Godot enthusiast, translator, videomaker."
 date: 2024-08-04T05:22:30Z
 ---
 {{< lead >}}

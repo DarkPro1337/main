@@ -15,7 +15,7 @@ title = "DarkPro1337"
 [params.author]
   name = "Артем Черных"
   image = "img/author.jpg"
-  bio = "Tools Developer @ Saber Interactive"
+  bio = "Software Developer"
   links = [
     { email = "mailto:darkprothekun@gmail.com" },
     { github = "https://github.com/DarkPro1337" },
