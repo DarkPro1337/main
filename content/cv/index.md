@@ -1,6 +1,6 @@
 ---
 title: "Artem Chernykh"
-summary: "Experienced C# developer with a strong foundation in building internal tools, automating workflows, and integrating systems across teams. Previously focused on WPF development at Saber Interactive, now expanding into infrastructure-oriented roles involving automation, Active Directory, and service integrations. I value clean, maintainable code, cross-team collaboration, and practical solutions that improve efficiency."
+summary: "I'm a C# developer with a passion for making things work better — whether it’s building tools that save time, automating repetitive tasks, or connecting systems so teams can focus on what matters. I started out doing WPF development at Saber Interactive, but lately I’ve been diving into infrastructure work: automating services, working with Active Directory, and tying everything together with solid integrations. I care about writing clean code, working well with others, and solving real problems without overcomplicating things."
 date: 2024-08-04T05:22:30Z
 showDate: false
 showAuthor: false
@@ -23,18 +23,27 @@ Download CV {{< icon "file-pdf" >}}
 
 ## Summary
 
-> Experienced C# developer with a strong foundation in building internal tools, automating workflows, and integrating systems across teams. Previously focused on WPF development at Saber Interactive, now expanding into infrastructure-oriented roles involving automation, Active Directory, and service integrations. I value clean, maintainable code, cross-team collaboration, and practical solutions that improve efficiency.
+> C# developer experienced in WPF tooling and infrastructure automation. Focused on building reliable internal tools, integrating services, and streamlining workflows across teams.
 
 ## Professional Experience
 
+### DevOps Engineer
+[**Vishup**](https://vishup.com.am/) in Yerevan <span style="float: right;">Jul 2025 — Present</span>
+* **Automate everyday tasks and service operations** using **PowerShell** and **C#**, especially around **Active Directory**.  
+* **Build internal tools** to make routine workflows faster, more reliable, and easier to maintain.  
+* **Connect systems** through **REST APIs** and work with **MSSQL** to support data-driven features.  
+* **Set up and manage CI/CD pipelines** in **GitLab**, following **Git Flow** to keep development organized.  
+* **Use Confluence** for documenting processes and **YouTrack** to manage work and team coordination.  
+* **Develop secure service integrations** using **ASP.NET** and **LDAP**.
+
 ### Tools Programmer
-[**Saber Interactive**](https://saber.games/) in Yerevan <span style="float: right;">2022—2025</span>  
-- **Engineered and maintained** advanced debugging utilities and level editors to accelerate development workflows and adapt to evolving project requirements.
-- **Reduced tool issues** by 25% through proactive maintenance, bug fixes, and regular updates.
-- **Developed intuitive WPF user-interfaces** that cut manual work by 20% and minimized UI lag by 30%, boosting overall team efficiency.
-- **Designed custom WPF controls** and integrated both internal and external APIs (e.g., Figma) to extend tool functionality and ensure seamless interoperability.
-- **Partnered with design teams** to modernize UI elements, resulting in significantly enhanced user experiences.
-- **Enforced high standards of code quality** via systematic reviews and version control with Perforce.
+[**Saber Interactive**](https://saber.games/) in Yerevan <span style="float: right;">Feb 2022 — Jun 2025</span>
+* **Built and supported** custom debugging tools and level editors to help the team work faster and adapt to changing project needs.
+* **Cut tool-related issues** by 25% through regular maintenance, quick bug fixes, and keeping everything up to date.
+* **Created smooth, user-friendly WPF interfaces** that reduced manual work by 20% and improved performance noticeably.
+* **Designed reusable WPF controls** and hooked up internal and external APIs (like Figma) to expand what the tools could do.
+* **Worked closely with designers** to refresh UI components and deliver a more polished, modern user experience.
+* **Kept code clean and reliable** by doing regular code reviews and managing changes through Perforce.
 
 #### Projects Highlights
 <style>
@@ -45,6 +54,7 @@ Download CV {{< icon "file-pdf" >}}
     opacity: 0.5;
 }
 </style>
+I'm officially credited in the staff credits of the following titles:
 <div style="display: grid; grid-template-columns: repeat(4, 140fr); justify-content: flex-start; border-radius: .375rem; overflow: hidden; margin-top: 32px; margin-bottom: 32px;">
 {{< steam-header id="2183900" >}}
 {{< custom-capsule name="toxic" href="https://store.epicgames.com/en-US/p/john-carpenters-toxic-commando" >}}

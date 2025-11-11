@@ -338,3 +338,6 @@ darkpro1337.github.io/
 
 # Generated resources
 resources/_gen/
+
+# MacOS folder attributes
+.DS_Store

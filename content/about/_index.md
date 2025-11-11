@@ -34,7 +34,7 @@ I enjoy helping the community by translating guides from English into Russian:
 - [GML Guide](https://darkpro1337.github.io/gml-guide) *(original by [GDPalace](https://gdpalace.wordpress.com/learn-gml/))*
 
 ### The track I'm obsessed with right now
-{{< spotify type="track" id="0PicuPCfXDJyyRtOR1ukGW" width="100%" height="100" >}}
+{{< spotify type="track" id="2463q6UN8BIDfeVI379qFz" width="100%" height="100" >}}
 {{< button-alt href="https://www.last.fm/user/DarkPro1337" target="_blank" >}}
 {{< icon "lastfm" >}} Scrobbles
 {{< /button-alt >}}
