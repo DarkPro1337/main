@@ -199,27 +199,27 @@ img {
     </div>
   </div>
 
-<div>
-  <h2 class="text-2xl font-extrabold text-neutral-900 dark:text-neutral">Музыкальное оборудование</h2>
-  <div class="mt-4 grid grid-cols-1 gap-4 md:grid-cols-3">
-    <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
-      <div class="flex-none pe-4">
-        <img src="img/grgr221pa-aqb.webp" alt="Ibanez GRGR221PA-AQB" class="w-24 rounded-md">
+  <div>
+    <h2 class="text-2xl font-extrabold text-neutral-900 dark:text-neutral">Music Gear</h2>
+    <div class="mt-4 grid grid-cols-1 gap-4 md:grid-cols-3">
+      <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
+        <div class="flex-none pe-4">
+          <img src="img/grgr221pa-aqb.webp" alt="Ibanez GRGR221PA-AQB" class="w-24 rounded-md">
+        </div>
+        <div>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-electric" >}} Guitar</div>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Ibanez GRGR221PA-AQB</h2>
+        </div>
       </div>
-      <div>
-        <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-electric" >}} Электрогитара</div>
-        <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Ibanez GRGR221PA-AQB</h2>
-      </div>
-    </div>
-    <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
-      <div class="flex-none pe-4">
-        <img src="img/ampero2stomp.webp" alt="Hotone Ampero II Stomp" class="w-24 rounded-md">
-      </div>
-      <div>
-        <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-amp" >}} Гитарный процессор эффектов</div>
-        <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Hotone Ampero II Stomp</h2>
+      <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
+        <div class="flex-none pe-4">
+          <img src="img/ampero2stomp.webp" alt="Hotone Ampero II Stomp" class="w-24 rounded-md">
+        </div>
+        <div>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-amp" >}} Multi-effects Processor</div>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Hotone Ampero II Stomp</h2>
+        </div>
       </div>
     </div>
   </div>
-</div>
 </section>
