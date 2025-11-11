@@ -1,6 +1,6 @@
 ---
 title: "Artem Chernykh"
-summary: "I'm a C# developer with a passion for making things work better — whether it’s building tools that save time, automating repetitive tasks, or connecting systems so teams can focus on what matters. I started out doing WPF development at Saber Interactive, but lately I’ve been diving into infrastructure work: automating services, working with Active Directory, and tying everything together with solid integrations. I care about writing clean code, working well with others, and solving real problems without overcomplicating things."
+summary: "C# developer experienced in WPF tooling and infrastructure automation. Focused on building reliable internal tools, integrating services, and streamlining workflows across teams."
 date: 2024-08-04T05:22:30Z
 showDate: false
 showAuthor: false
