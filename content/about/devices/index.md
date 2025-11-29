@@ -137,7 +137,7 @@ img {
         </div>
         <div>
           <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "xbox" >}} Gamepad</div>
-          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Microsoft Xbox Series Controller</h2>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Xbox Series</h2>
           <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Carbon Black</div>
         </div>
       </div>
@@ -218,6 +218,15 @@ img {
         <div>
           <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-amp" >}} Multi-effects Processor</div>
           <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Hotone Ampero II Stomp</h2>
+        </div>
+      </div>
+      <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
+        <div class="flex-none pe-4">
+          <img src="img/thr10.webp" alt="Yamaha THR10" class="w-24 rounded-md">
+        </div>
+        <div>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-amp" >}} Guitar Amplifier</div>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Yamaha THR10</h2>
         </div>
       </div>
     </div>
