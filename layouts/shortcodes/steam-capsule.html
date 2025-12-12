@@ -1,4 +1,28 @@
-{{- $id := .Get "id" | default "753" -}}
-<a href="https://store.steampowered.com/app/{{ $id }}" target="_blank" style="display: inline-block;">
-    <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/{{ $id }}/capsule_184x69.jpg" class="steam-capsule-img" style="margin: 0; transition: opacity 0.3s ease; display: block;">
+{{- $id := (.Get "id" | default "753") | string -}}
+{{- $lang := .Get "lang" | default "english" -}}
+{{- $storeUrl := printf "https://store.steampowered.com/api/appdetails?appids=%s&l=%s" $id $lang -}}
+
+{{- /* Default (legacy) path */ -}}
+{{- $img := printf "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/%s/capsule_184x69.jpg" $id -}}
+
+{{- with resources.GetRemote $storeUrl -}}
+  {{- $json := transform.Unmarshal . -}}
+  {{- $entry := index $json $id -}}
+  {{- if and $entry $entry.success $entry.data -}}
+    {{- with $entry.data.capsule_imagev5 -}}
+      {{- $img = . -}}
+    {{- else -}}
+      {{- with $entry.data.capsule_image -}}
+        {{- $img = . -}}
+      {{- else -}}
+        {{- with $entry.data.header_image -}}
+          {{- $img = . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<a href="https://store.steampowered.com/app/{{ $id }}" target="_blank" rel="noopener" style="display:inline-block;">
+  <img src="{{ $img }}" class="steam-capsule-img" style="margin:0;transition:opacity .3s ease;display:block;" loading="lazy" alt="Steam capsule {{ $id }}">
 </a>

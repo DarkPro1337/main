@@ -57,7 +57,7 @@ Download CV {{< icon "file-pdf" >}}
 I'm officially credited in the staff credits of the following titles:
 <div style="display: grid; grid-template-columns: repeat(4, 140fr); justify-content: flex-start; border-radius: .375rem; overflow: hidden; margin-top: 32px; margin-bottom: 32px;">
 {{< steam-header id="2183900" >}}
-{{< custom-capsule name="toxic" href="https://store.epicgames.com/en-US/p/john-carpenters-toxic-commando" >}}
+{{< steam-header id="2157830" >}}
 {{< steam-header id="2104890" >}}
 {{< steam-header id="2208810" >}}
 </div>
