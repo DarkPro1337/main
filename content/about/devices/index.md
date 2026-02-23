@@ -96,6 +96,15 @@ img {
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
         <div class="flex-none pe-4">
+          <img src="img/770nc.webp" alt="JBL Live 770NC" class="w-24 rounded-md">
+        </div>
+        <div>
+          <div class="mt-2 list-disc pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "headphones" >}} Wireless Headphones</div>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">JBL Live 770NC</h2>
+        </div>
+      </div>
+      <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
+        <div class="flex-none pe-4">
           <img src="img/24MK600M.webp" alt="LG 24MK600M" class="w-24 rounded-md">
         </div>
         <div>
@@ -209,6 +218,17 @@ img {
         <div>
           <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-electric" >}} Guitar</div>
           <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Ibanez GRGR221PA-AQB</h2>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Daddario EXL110 Strings</div>
+        </div>
+      </div>
+      <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
+        <div class="flex-none pe-4">
+          <img src="img/q52pb-col.webp" alt="Ibanez Q52PB-COL" class="w-24 rounded-md">
+        </div>
+        <div>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-electric" >}} Guitar</div>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Ibanez Q52PB-COL</h2>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Ernie Ball Paradigm 10-52 Strings</div>
         </div>
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
