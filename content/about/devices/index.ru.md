@@ -114,11 +114,11 @@ img {
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
         <div class="flex-none pe-4">
-          <img src="/about/devices/img/g304.webp" alt="Logitech G304" class="w-24 rounded-md">
+          <img src="/about/devices/img/g502xplus.webp" alt="Logitech G502 X PLUS" class="w-24 rounded-md">
         </div>
         <div>
           <div class="mt-2 list-disc pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "mouse" >}} Мышь</div>
-          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">Logitech G304</h2>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">Logitech G502 X PLUS</h2>
         </div>
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
@@ -137,7 +137,8 @@ img {
         </div>
         <div>
           <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "xbox" >}} Геймпад</div>
-          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">Xbone Rev.3</h2>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Xbox One</h2>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Rev.3</div>
         </div>
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
@@ -213,22 +214,22 @@ img {
     <div class="mt-4 grid grid-cols-1 gap-4 md:grid-cols-3">
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
         <div class="flex-none pe-4">
-          <img src="/about/devices/img/grgr221pa-aqb.webp" alt="Ibanez GRGR221PA-AQB" class="w-24 rounded-md">
+          <img src="/about/devices/img/q52pb-col.webp" alt="Ibanez Q52PB-COL" class="w-24 rounded-md">
         </div>
         <div>
-          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-electric" >}} Электрогитара</div>
-          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Ibanez GRGR221PA-AQB</h2>
-          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Струны Daddario EXL110</div>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-electric" >}} Основная электрогитара</div>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Ibanez Q52PB-COL</h2>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Струны Ernie Ball 10-52</div>
         </div>
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
         <div class="flex-none pe-4">
-          <img src="/about/devices/img/q52pb-col.webp" alt="Ibanez Q52PB-COL" class="w-24 rounded-md">
+          <img src="/about/devices/img/grgr221pa-aqb.webp" alt="Ibanez GRGR221PA-AQB" class="w-24 rounded-md">
         </div>
         <div>
-          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-electric" >}} Электрогитара</div>
-          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Ibanez Q52PB-COL</h2>
-          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Струны Ernie Ball Paradigm 10-52</div>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-electric" >}} Запасная электрогитара</div>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Ibanez GRGR221PA-AQB</h2>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Струны Daddario EXL110</div>
         </div>
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
@@ -237,7 +238,7 @@ img {
         </div>
         <div>
           <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-amp" >}} Гитарный процессор эффектов</div>
-          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Hotone Ampero II Stomp</h2>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">Hotone Ampero II Stomp</h2>
         </div>
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
@@ -247,6 +248,17 @@ img {
         <div>
           <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "guitar-amp" >}} Гитарный усилитель</div>
           <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Yamaha THR10</h2>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Перевая ревизия</div>
+        </div>
+      </div>
+      <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
+        <div class="flex-none pe-4">
+          <img src="/about/devices/img/minilab3.webp" alt="Arturia Minilab 3" class="w-24 rounded-md">
+        </div>
+        <div>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "midi-keyboard" >}} MIDI Клавиатура</div>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral mb-0">Arturia Minilab 3</h2>
+          <div class="mt-2 pl-5 text-sm text-neutral-600 dark:text-neutral-400">Белая</div>
         </div>
       </div>
     </div>
