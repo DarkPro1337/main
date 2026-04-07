@@ -78,20 +78,29 @@ img {
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
         <div class="flex-none pe-4">
-          <img src="/about/devices/img/wave1.webp" alt="Logitech StreamCam" class="w-24 rounded-md">
+          <img src="/about/devices/img/sm7db.webp" alt="Shure SM7db" class="w-24 rounded-md">
         </div>
         <div>
           <div class="mt-2 list-disc pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "mic" >}} Микрофон</div>
-          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">Elgato Wave:1</h2>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">Shure SM7db</h2>
         </div>
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
         <div class="flex-none pe-4">
-          <img src="/about/devices/img/ath-m40x.webp" alt="Audio-Technica ATH-M40x" class="w-24 rounded-md">
+          <img src="/about/devices/img/ath-m50x.webp" alt="Audio-Technica ATH-M50x" class="w-24 rounded-md">
         </div>
         <div>
           <div class="mt-2 list-disc pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "headphones" >}} Наушники</div>
-          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">Audio-Technica ATH-M40x</h2>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">Audio-Technica ATH-M50x</h2>
+        </div>
+      </div>
+      <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">
+        <div class="flex-none pe-4">
+          <img src="/about/devices/img/id4mkii.webp" alt="Audient ID4 MKII" class="w-24 rounded-md">
+        </div>
+        <div>
+          <div class="mt-2 list-disc pl-5 text-sm text-neutral-600 dark:text-neutral-400">{{< icon "dial" >}} Аудиоинтерфейс</div>
+          <h2 class="text-xl mt-0 font-semibold text-neutral-800 dark:text-neutral">Audient ID4 MKII</h2>
         </div>
       </div>
       <div class="flex max-w-prose items-center rounded-md border border-neutral-200 bg-white p-4 shadow dark:border-neutral-700 dark:bg-neutral-800">

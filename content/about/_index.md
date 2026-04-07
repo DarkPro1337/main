@@ -16,7 +16,7 @@ showComments: false
 
 ### Hi, my name is Artem!
 
-I’m a software developer based in Yerevan, Armenia. I work as a **C#** developer, focusing on automation, internal tools, and service integration. I also have experience building **WPF** applications and developer tools. I’m passionate about creating practical solutions that make everyday workflows smoother and more enjoyable.
+I’m a software developer based in Yerevan, Armenia. I work primarily with **C#**, focusing on automation, internal tools, and service integrations. I also have experience building **WPF** applications and developer tools. I enjoy creating practical solutions that make everyday workflows smoother and more convenient.
 
 {{< button-alt href="devices" >}}
 {{< icon "gear" >}} My Devices
@@ -121,8 +121,4 @@ I enjoy helping the community by translating guides from English into Russian:
 
 {{< button-alt href="https://tronscan.org/#/address/TT1F6ptBedtbvc12Gjc8YRXFXJxYA1kxBd" target="_blank" >}}
 {{< icon "tether" >}} USDT TRC20
-{{< /button-alt >}}
-
-{{< button-alt href="https://www.buymeacoffee.com/darkpro1337" target="_blank" >}}
-{{< icon "buymeacoffee" >}} Buy Me a Coffee
 {{< /button-alt >}}

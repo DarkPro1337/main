@@ -1,6 +1,6 @@
 ---
 title: "Artem Chernykh"
-summary: "C# developer experienced in WPF tooling and infrastructure automation. Focused on building reliable internal tools, integrating services, and streamlining workflows across teams."
+summary: "C# engineer with experience in WPF tooling, backend integrations, and infrastructure automation. Focused on building reliable internal tools, streamlining workflows, and improving day-to-day engineering processes across teams."
 date: 2024-08-04T05:22:30Z
 showDate: false
 showAuthor: false
@@ -23,18 +23,17 @@ Download CV {{< icon "file-pdf" >}}
 
 ## Summary
 
-> C# developer experienced in WPF tooling and infrastructure automation. Focused on building reliable internal tools, integrating services, and streamlining workflows across teams.
+> C# engineer with experience in WPF tooling, backend integrations, and infrastructure automation. Focused on building reliable internal tools, streamlining workflows, and improving day-to-day engineering processes across teams.
 
 ## Professional Experience
 
 ### DevOps Engineer
 [**Vishup**](https://vishup.com.am/) in Yerevan <span style="float: right;">Jul 2025 — Present</span>
-* **Automate everyday tasks and service operations** using **PowerShell** and **C#**, especially around **Active Directory**.  
-* **Build internal tools** to make routine workflows faster, more reliable, and easier to maintain.  
-* **Connect systems** through **REST APIs** and work with **MSSQL** to support data-driven features.  
-* **Set up and manage CI/CD pipelines** in **GitLab**, following **Git Flow** to keep development organized.  
-* **Use Confluence** for documenting processes and **YouTrack** to manage work and team coordination.  
-* **Develop secure service integrations** using **ASP.NET** and **LDAP**.
+* **Automate service operations and routine tasks** using **C#**, with a strong focus on **Active Directory** and internal infrastructure.
+* **Build internal tools** that reduce manual effort and improve reliability of day-to-day workflows.
+* **Develop backend services and integrations** with **ASP.NET**, **LDAP**, and **MSSQL**.
+* **Maintain CI/CD pipelines** in **GitLab** and support structured delivery using **Git Flow**.
+* **Set up monitoring and centralized logging** with **Zabbix** and **Elasticsearch**.
 
 ### Tools Programmer
 [**Saber Interactive**](https://saber.games/) in Yerevan <span style="float: right;">Feb 2022 — Jun 2025</span>
@@ -55,7 +54,7 @@ Download CV {{< icon "file-pdf" >}}
 }
 </style>
 I'm officially credited in the staff credits of the following titles:
-<div style="display: grid; grid-template-columns: repeat(4, 140fr); justify-content: flex-start; border-radius: .375rem; overflow: hidden; margin-top: 32px; margin-bottom: 32px;">
+<div style="display: grid; grid-template-columns: repeat(4, 140fr); justify-content: flex-start; border-radius: .375rem; overflow: hidden;">
 {{< steam-header id="2183900" >}}
 {{< steam-header id="2157830" >}}
 {{< steam-header id="2104890" >}}
@@ -71,27 +70,26 @@ I'm officially credited in the staff credits of the following titles:
 
 ## Skills & Knowledge
 
-- **Languages**: C#, C++, Python  
-- **Frameworks**: WPF, WCF, ASP.NET, AvaloniaUI
-- **Tools**: Git, Perforce, Godot Engine, Unreal Engine
+- **Languages**: C#, C++
+- **Frameworks**: ASP.NET, WPF, AvaloniaUI, WCF
+- **Infrastructure**: Active Directory, LDAP, GitLab CI/CD
+- **Monitoring**: Zabbix, Serilog, Filebeat, Elasticsearch
+- **Databases**: MS SQL, MySQL, PostgreSQL, SQLite
+- **Tools**: Git, Perforce
 - **Markup**: XAML, HTML5
-- **Databases**: MS SQL, MySQL, SQLite
-- **Scripting**: PowerShell, Batch, Bash
 
 ## Languages
 * **English** *(advanced)*
 * **Russian** *(native)*
 * **Polish** *(basic)*
-
-## Active Pet Projects
-* [**Arcomage**](https://github.com/DarkPro1337/Arcomage) — Godot 4 .NET remake of the Arcomage card game.  
+* **Armenian** *(basic)*
 
 ## Hobbies
 - **Indie game development** — *currently developing Arcomage and occasionally assisting friends with their projects.*
 - **Computer graphics** — *occasionally experimenting with Blender and Daz3D; previously worked with Source Filmmaker.*
 - **Playing guitar & vocals** — *actively practicing vocals and guitar; interested in alternative and metal genres.*
-- **Video editing** — *creating YouTube videos and stream highlights.*
-- **Game modding** — *casually creating mods for fun, with plans to share a few cool ones in the future.*
+- **Video editing** — *creating YouTube and TikTok videos and stream highlights sometimes.*
+- **Game modding** — *casually creating mods for fun.*
 
 ## Additional Skills & Interests
 
